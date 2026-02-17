@@ -13,6 +13,24 @@ The Meme Generator App is built using React, a popular JavaScript library for bu
 ## Data Overview
 The Meme Generator App uses the Imgflip API to fetch a list of available meme images. The API returns a JSON object containing a list of meme images, each with a unique URL and ID. The application stores this data in a React state variable, which is updated whenever the user generates a new meme image.
 
+## Folder Structure
+```markdown
+meme-project/
+├── .gitignore
+├── components
+│   ├── Header.jsx
+│   ├── Main.jsx
+├── index.html
+├── index.jsx
+├── package.json
+├── public
+├── src
+│   ├── App.jsx
+│   ├── style.css
+├── vite.config.js
+```
+
+
 ## Key Features Used
 The Meme Generator App utilizes the following key features:
 * React state management to store and update user input and meme image data
