@@ -4,6 +4,9 @@ The Meme Generator App is a React-based application that enables users to create
 ## Project Overview
 The Meme Generator App is designed to provide a fun and engaging experience for users who enjoy creating and sharing memes. The application utilizes the Imgflip API to fetch a wide range of meme images, which can be randomly selected and paired with user-inputted text.
 
+<img width="1910" height="910" alt="Screenshot 2026-02-16 140202" src="https://github.com/user-attachments/assets/1be6fcde-e6f0-491f-8d60-58d7642e2cc6" />
+
+
 ## Problem Statement
 Creating and customizing memes can be a time-consuming and laborious process, requiring users to manually search for images and overlay text. The Meme Generator App aims to simplify this process, providing a streamlined and user-friendly interface for creating and sharing memes.
 
